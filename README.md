@@ -44,8 +44,9 @@
 </div>
 
 ###
+![snake gif](https://github.com/Valmir10/Valmir10/blob/output/github-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/Valmir10/Valmir10/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -55,6 +56,7 @@
 </div>
 
 ###
+
 
 
 
